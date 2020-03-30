@@ -15,7 +15,7 @@ def load_library
     end
 
     new_hashend
-
+endz
 def get_japanese_emoticon
   # code goes here
 end
